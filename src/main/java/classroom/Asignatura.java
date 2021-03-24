@@ -9,7 +9,7 @@ public class Asignatura {
 
     Asignatura() {
         this("Sin nombre");
-        this(0);
+        //this(0);
     }
 
     Asignatura(int codigoInterno) {
